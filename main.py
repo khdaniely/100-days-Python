@@ -19,3 +19,17 @@ print("next week could be very interesting. can't wait to hear some feedback")
 print("could end up at FAANG, AMEX, or ACG. Maybe somewhere completely different")
 print("who know will put me where I need to be grow.")
 print("As they say. Trust the process. Look at the house you got.")
+
+
+
+print("hey there\nhey there again\nannnnnnd again\none more time")
+
+
+print("what up"  + " " + "Ken!")
+
+print("Day 1 - String Manipulation")
+print("String Concatenation is done with the " + " sign.")
+print('e.g. print("Hello " + "world")')
+print(("New lines can be created with a backslash\nand n."))
+
+
